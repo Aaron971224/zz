@@ -1,0 +1,7 @@
+panda        1376
+panda        985
+Null        0
+Null        0
+Null        0
+panda        0
+panda        0
